@@ -1,0 +1,3 @@
+URLS:
+ server_url: "http://127.0.0.1:5000/auto_attendance"
+ check_url:  "http://127.0.0.1:5000/Days_of_absence"
